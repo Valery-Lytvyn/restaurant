@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css2?family=Roboto&display=swap";.app{width:100%;height:100%;display:flex;flex-direction:column}main{flex:1}*{margin:0;padding:0;box-sizing:border-box}html,body,#root{font-family:Roboto,sans-serif;width:100%;height:100%}a{text-decoration:none;color:#fffafaa2}a:hover{color:#daa520}
